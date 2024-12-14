@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "761f9afc1c819b28",
+    "type": "split",
+    "children": [
+      {
+        "id": "7349bc60be1235f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcdd2f267f28c58b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibliografía/La alimentación de los mayas prehisopanicos vista desde la zooarqueología.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La alimentación de los mayas prehisopanicos vista desde la zooarqueología"
+            }
+          },
+          {
+            "id": "7ae0520f28d07aa8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDF/EL_ESPACIO_SAGRADO_EN_TULUM.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "EL_ESPACIO_SAGRADO_EN_TULUM"
+            }
+          },
+          {
+            "id": "1a1dae9bb88d2b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibliografía/El Espacio Sagrado en Tulum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "El Espacio Sagrado en Tulum"
+            }
+          },
+          {
+            "id": "d2061f33faee9d8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibliografía/La Producción Cerámica en el Área Maya. Propuestas de producción especializada en el estado regional de calakmul, campeche..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Producción Cerámica en el Área Maya. Propuestas de producción especializada en el estado regional de calakmul, campeche."
+            }
+          },
+          {
+            "id": "56dd4628677208ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibliografía/La Producción Cerámica en el Área Maya. Propuestas de producción especializada en el estado regional de calakmul, campeche..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Producción Cerámica en el Área Maya. Propuestas de producción especializada en el estado regional de calakmul, campeche."
+            }
+          },
+          {
+            "id": "e28d308f0c24ec9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibliografía/La alimentación de los mayas prehisopanicos vista desde la zooarqueología.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La alimentación de los mayas prehisopanicos vista desde la zooarqueología"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de01d112da7ac276",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a5fd41966f09403",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49bb0a4414b3a583",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c24e41fc98829513",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a0ef3cf32b41d358",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "right": {
+    "id": "f6a274a1dd01c547",
+    "type": "split",
+    "children": [
+      {
+        "id": "724d6e6c763549bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6e989a40337d568",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "05f8ca7ba6475e7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "769c7ac4f4b5b8a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "534a50d84218267d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
+    }
+  },
+  "active": "56dd4628677208ac",
+  "lastOpenFiles": [
+    "Bibliografía/Formaciones Socioeconómicas del Posclásico Maya. Reconocimiento Arqueológico de Tulum a Punta Allen, Quintana Roo..md",
+    "Bibliografía/El Espacio Sagrado en Tulum.md",
+    "Bibliografía/El Colapso Maya.md",
+    "PDF/Andrews 1983 - Rec Arq Tulúm-Pta Allen [BECUADY].pdf",
+    "PDF/3318-Texto del artículo-5210-1-10-20121116 (1).pdf",
+    "PDF/Gotz (2013).pdf",
+    "PDF/EL_ESPACIO_SAGRADO_EN_TULUM.pdf",
+    "PDF",
+    "Maya/PDF/Andrews 1983 - Rec Arq Tulúm-Pta Allen [BECUADY].pdf",
+    "Maya/PDF/Gotz (2013).pdf",
+    "Maya/PDF/EL_ESPACIO_SAGRADO_EN_TULUM.pdf",
+    "Maya/PDF/3318-Texto del artículo-5210-1-10-20121116 (1).pdf",
+    "Maya/PDF",
+    "Maya/README.md",
+    "Bibliografía/La Producción Cerámica en el Área Maya. Propuestas de producción especializada en el estado regional de calakmul, campeche..md",
+    "Bibliografía/Nueva Evidencia Pertinente a la Ocupación Temprana del Sur de Mesoamerica.md",
+    "Temas/Rojas, 1968.md",
+    "Untitled.canvas",
+    "Imágenes/Pasted image 20241212113309.png",
+    "Bibliografía/La alimentación de los mayas prehispanicos vista desde la zooarqueología.md",
+    "Imágenes/Símbolo del sol, códice dresde.png",
+    "Imágenes/Estructura 5.png",
+    "Imágenes/Esquinas del cielo.png",
+    "Imágenes/Dimensión vertical del mundo.png",
+    "Imágenes/Cronología de las tierras bajas mayas.png",
+    "Temas/Thompson (1954).md",
+    "Escritos/Unidad habitacional doméstica.md",
+    "Esquinas del cielo señaladas por el sol.md",
+    "Imágenes/Símbolo del sol, códice dresde.md",
+    "Welcome.md",
+    "Escritos/Estuco.md",
+    "Highlights for Materiales_y_sistema.md",
+    "Temas/Élite Maya.md",
+    "Temas/Colapso Maya.md",
+    "Temas/Basureros.md",
+    "Temas.md"
+  ]
+}
